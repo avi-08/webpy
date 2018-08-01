@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-
+# Setup.py file helps to set up the environment
 from setuptools import setup
 from web import __version__
 
